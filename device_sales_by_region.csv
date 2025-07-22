@@ -1,0 +1,73 @@
+Region,DeviceRevenueUSD,DevicesSold,SaleDate,DeviceType,PriceTier,DeviceID
+Stockholms län,7253.00,711,2024-01-15,Wearables,Premium,W7253-711
+Upper Austria,6663.00,2440,2024-01-16,Collar_AddOns,Standard,C6663-2440
+Namen,7378.00,3354,2024-01-17,Implants,Premium,I7378-3354
+Berlin,5296.00,9167,2024-01-18,Clip_Ons,Basic,C5296-9167
+Northwest Territories,8530.00,9540,2024-01-19,Harness_Devices,Premium,H8530-9540
+Riau Islands,5626.00,6815,2024-01-20,Specialty_Devices,Standard,S5626-6815
+Montgomeryshire,8702.00,3233,2024-01-21,Wearables,Premium,W8702-3233
+Bangka Belitung Islands,6570.00,3269,2024-01-22,Collar_AddOns,Standard,C6570-3269
+Nunavut,6547.00,7272,2024-01-23,Implants,Premium,I6547-7272
+Haute-Normandie,6642.00,9794,2024-01-24,Clip_Ons,Basic,C6642-9794
+Punjab,5961.00,5124,2024-01-25,Harness_Devices,Standard,H5961-5124
+Queensland,8135.00,9364,2024-01-26,Specialty_Devices,Premium,S8135-9364
+Van,6980.00,2538,2024-01-27,Wearables,Standard,W6980-2538
+Northwest Territories,8474.00,1082,2024-01-28,Collar_AddOns,Premium,C8474-1082
+Sindh,9380.00,3125,2024-01-29,Implants,Premium,I9380-3125
+Mpumalanga,9467.00,1598,2024-01-30,Clip_Ons,Premium,C9467-1598
+Borno,5330.00,7520,2024-01-31,Harness_Devices,Basic,H5330-7520
+Ulster,6147.00,4930,2024-02-01,Specialty_Devices,Standard,S6147-4930
+Rivers,8288.00,2700,2024-02-02,Wearables,Premium,W8288-2700
+North Island,8415.00,9277,2024-02-03,Collar_AddOns,Premium,C8415-9277
+North Region,7506.00,6832,2024-02-04,Implants,Standard,I7506-6832
+Centre,7297.00,3493,2024-02-05,Clip_Ons,Standard,C7297-3493
+Yucatán,7565.00,7578,2024-02-06,Harness_Devices,Standard,H7565-7578
+North Sumatra,9431.00,3718,2024-02-07,Specialty_Devices,Premium,S9431-3718
+Denbighshire,5427.00,5853,2024-02-08,Wearables,Basic,W5427-5853
+Bretagne,7133.00,2886,2024-02-09,Collar_AddOns,Standard,C7133-2886
+Dalarnas län,6780.00,426,2024-02-10,Implants,Standard,I6780-0426
+Sucre,5008.00,4876,2024-02-11,Clip_Ons,Basic,C5008-4876
+Baden Württemberg,7647.00,9244,2024-02-12,Harness_Devices,Standard,H7647-9244
+Campania,9464.00,1874,2024-02-13,Specialty_Devices,Premium,S9464-1874
+North Island,8386.00,6941,2024-02-14,Wearables,Premium,W8386-6941
+Antalya,6423.00,5166,2024-02-15,Collar_AddOns,Standard,C6423-5166
+Bavaria,7845.00,3321,2024-02-16,Implants,Premium,I7845-3321
+Västra Götaland,6234.00,4567,2024-02-17,Clip_Ons,Standard,C6234-4567
+Hokkaido,8912.00,2198,2024-02-18,Harness_Devices,Premium,H8912-2198
+Lombardy,5678.00,7823,2024-02-19,Specialty_Devices,Basic,S5678-7823
+New South Wales,7890.00,4532,2024-02-20,Wearables,Standard,W7890-4532
+Catalonia,6789.00,3217,2024-02-21,Collar_AddOns,Standard,C6789-3217
+Ontario,8234.00,5643,2024-02-22,Implants,Premium,I8234-5643
+Brittany,5432.00,8976,2024-02-23,Clip_Ons,Basic,C5432-8976
+Saxony,7654.00,2345,2024-02-24,Harness_Devices,Standard,H7654-2345
+Alberta,8765.00,6543,2024-02-25,Specialty_Devices,Premium,S8765-6543
+Hampshire,6543.00,4321,2024-02-26,Wearables,Standard,W6543-4321
+Tuscany,7123.00,5678,2024-02-27,Collar_AddOns,Standard,C7123-5678
+Brandenburg,8432.00,3456,2024-02-28,Implants,Premium,I8432-3456
+Normandy,5987.00,7654,2024-02-29,Clip_Ons,Basic,C5987-7654
+Queensland,7654.00,4567,2024-03-01,Harness_Devices,Standard,H7654-4567
+Sicily,8876.00,3234,2024-03-02,Specialty_Devices,Premium,S8876-3234
+Yorkshire,6234.00,5678,2024-03-03,Wearables,Standard,W6234-5678
+Provence,7865.00,4321,2024-03-04,Collar_AddOns,Standard,C7865-4321
+Hesse,8543.00,6789,2024-03-05,Implants,Premium,I8543-6789
+Aquitaine,5432.00,3456,2024-03-06,Clip_Ons,Basic,C5432-3456
+Victoria,7654.00,5678,2024-03-07,Harness_Devices,Standard,H7654-5678
+Piedmont,8765.00,4321,2024-03-08,Specialty_Devices,Premium,S8765-4321
+Essex,6543.00,6789,2024-03-09,Wearables,Standard,W6543-6789
+Rhône-Alpes,7123.00,3456,2024-03-10,Collar_AddOns,Standard,C7123-3456
+Lower Saxony,8432.00,5678,2024-03-11,Implants,Premium,I8432-5678
+Midi-Pyrénées,5987.00,4321,2024-03-12,Clip_Ons,Basic,C5987-4321
+Western Australia,7654.00,6789,2024-03-13,Harness_Devices,Standard,H7654-6789
+Veneto,8876.00,3456,2024-03-14,Specialty_Devices,Premium,S8876-3456
+Kent,6234.00,5678,2024-03-15,Wearables,Standard,W6234-5678
+Languedoc,7865.00,4321,2024-03-16,Collar_AddOns,Standard,C7865-4321
+Thuringia,8543.00,6789,2024-03-17,Implants,Premium,I8543-6789
+Burgundy,5432.00,3456,2024-03-18,Clip_Ons,Basic,C5432-3456
+South Australia,7654.00,5678,2024-03-19,Harness_Devices,Standard,H7654-5678
+Emilia-Romagna,8765.00,4321,2024-03-20,Specialty_Devices,Premium,S8765-4321
+Surrey,6543.00,6789,2024-03-21,Wearables,Standard,W6543-6789
+Nord-Pas-de-Calais,7123.00,3456,2024-03-22,Collar_AddOns,Standard,C7123-3456
+Rhineland,8432.00,5678,2024-03-23,Implants,Premium,I8432-5678
+Pays de la Loire,5987.00,4321,2024-03-24,Clip_Ons,Basic,C5987-4321
+Tasmania,7654.00,6789,2024-03-25,Harness_Devices,Standard,H7654-6789
+Lazio,8876.00,3456,2024-03-26,Specialty_Devices,Premium,S8876-3456

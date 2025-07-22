@@ -1,0 +1,61 @@
+DeviceType,ShippingAddress,ManufacturingCountry,DeviceID,BatteryLife,WaterResistant,HealthMetrics,FirmwareVersion,BatchNumber
+Wearables,373-7754 Non Road,Indonesia,W7253-711,72,TRUE,heart_rate;activity;sleep,2.1.0,BAT2024-01
+Collar_AddOns,Ap #525-7444 Eleifend. Av.,United States,C6663-2440,168,TRUE,location;activity,1.9.2,BAT2024-01
+Implants,Ap #362-708 Ipsum Ave,Italy,I7378-3354,720,TRUE,temperature;vitals,3.0.1,BAT2024-02
+Clip_Ons,P.O. Box 842 9324 Pede Rd.,South Africa,C5296-9167,48,FALSE,activity;steps,1.8.5,BAT2024-01
+Harness_Devices,614-4459 Augue Street,Russian Federation,H8530-9540,96,TRUE,heart_rate;respiration;posture,2.3.0,BAT2024-02
+Specialty_Devices,3511 Mi Ave,Mexico,S5626-6815,168,TRUE,all_metrics;specialized,3.1.0,BAT2024-03
+Wearables,Ap #767-8859 Interdum Rd.,Peru,W8702-3233,72,TRUE,heart_rate;activity;sleep,2.1.0,BAT2024-01
+Collar_AddOns,1933 Risus Rd.,Italy,C6570-3269,168,TRUE,location;activity,1.9.2,BAT2024-01
+Implants,Ap #791-4568 Vestibulum St.,Netherlands,I6547-7272,720,TRUE,temperature;vitals,3.0.1,BAT2024-02
+Clip_Ons,P.O. Box 612 5438 Sed Street,Canada,C6642-9794,48,FALSE,activity;steps,1.8.5,BAT2024-01
+Harness_Devices,Ap #996-5263 Lorem Rd.,Ukraine,H5961-5124,96,TRUE,heart_rate;respiration;posture,2.3.0,BAT2024-02
+Specialty_Devices,840-2708 Interdum. St.,Nigeria,S8135-9364,168,TRUE,all_metrics;specialized,3.1.0,BAT2024-03
+Wearables,P.O. Box 934 2582 Turpis Avenue,Chile,W6980-2538,72,TRUE,heart_rate;activity;sleep,2.1.0,BAT2024-01
+Collar_AddOns,Ap #123-456 Magna Ave,Germany,C8474-1082,168,TRUE,location;activity,1.9.2,BAT2024-01
+Implants,789 Vitae Road,Japan,I9380-3125,720,TRUE,temperature;vitals,3.0.1,BAT2024-02
+Clip_Ons,P.O. Box 567 4321 Nunc St.,Brazil,C9467-1598,48,FALSE,activity;steps,1.8.5,BAT2024-01
+Harness_Devices,234 Augue Street,China,H5330-7520,96,TRUE,heart_rate;respiration;posture,2.3.0,BAT2024-02
+Specialty_Devices,567 Elit Avenue,France,S6147-4930,168,TRUE,all_metrics;specialized,3.1.0,BAT2024-03
+Wearables,890 Ipsum Road,Spain,W8288-2700,72,TRUE,heart_rate;activity;sleep,2.1.0,BAT2024-01
+Collar_AddOns,P.O. Box 789 1234 Nulla St.,Australia,C8415-9277,168,TRUE,location;activity,1.9.2,BAT2024-01
+Implants,456 Vestibulum Avenue,Sweden,I7506-6832,720,TRUE,temperature;vitals,3.0.1,BAT2024-02
+Clip_Ons,P.O. Box 234 5678 Sed Rd.,Norway,C7297-3493,48,FALSE,activity;steps,1.8.5,BAT2024-01
+Harness_Devices,789 Lorem Street,Denmark,H7565-7578,96,TRUE,heart_rate;respiration;posture,2.3.0,BAT2024-02
+Specialty_Devices,123 Interdum Road,Finland,S9431-3718,168,TRUE,all_metrics;specialized,3.1.0,BAT2024-03
+Wearables,P.O. Box 456 7890 Turpis St.,Poland,W5427-5853,72,TRUE,heart_rate;activity;sleep,2.1.0,BAT2024-01
+Collar_AddOns,890 Magna Road,Austria,C7133-2886,168,TRUE,location;activity,1.9.2,BAT2024-01
+Implants,234 Vitae Avenue,Switzerland,I6780-0426,720,TRUE,temperature;vitals,3.0.1,BAT2024-02
+Clip_Ons,P.O. Box 890 1234 Nunc Avenue,Belgium,C5008-4876,48,FALSE,activity;steps,1.8.5,BAT2024-01
+Harness_Devices,567 Augue Road,Ireland,H7647-9244,96,TRUE,heart_rate;respiration;posture,2.3.0,BAT2024-02
+Specialty_Devices,890 Elit Street,Greece,S9464-1874,168,TRUE,all_metrics;specialized,3.1.0,BAT2024-03
+Wearables,P.O. Box 234 5678 Ipsum St.,Portugal,W8386-6941,72,TRUE,heart_rate;activity;sleep,2.1.0,BAT2024-01
+Collar_AddOns,123 Nulla Avenue,Turkey,C6423-5166,168,TRUE,location;activity,1.9.2,BAT2024-01
+Implants,456 Vestibulum Road,Hungary,I7845-3321,720,TRUE,temperature;vitals,3.0.1,BAT2024-02
+Clip_Ons,P.O. Box 789 4321 Sed Street,Czech Republic,C6234-4567,48,FALSE,activity;steps,1.8.5,BAT2024-01
+Harness_Devices,890 Lorem Avenue,Slovakia,H8912-2198,96,TRUE,heart_rate;respiration;posture,2.3.0,BAT2024-02
+Specialty_Devices,234 Interdum Street,Romania,S5678-7823,168,TRUE,all_metrics;specialized,3.1.0,BAT2024-03
+Wearables,P.O. Box 567 8901 Turpis Road,Bulgaria,W7890-4532,72,TRUE,heart_rate;activity;sleep,2.1.0,BAT2024-01
+Collar_AddOns,789 Magna Street,Croatia,C6789-3217,168,TRUE,location;activity,1.9.2,BAT2024-01
+Implants,123 Vitae Road,Serbia,I8234-5643,720,TRUE,temperature;vitals,3.0.1,BAT2024-02
+Clip_Ons,P.O. Box 456 7890 Nunc St.,Slovenia,C5432-8976,48,FALSE,activity;steps,1.8.5,BAT2024-01
+Harness_Devices,890 Augue Avenue,Estonia,H7654-2345,96,TRUE,heart_rate;respiration;posture,2.3.0,BAT2024-02
+Specialty_Devices,234 Elit Road,Latvia,S8765-6543,168,TRUE,all_metrics;specialized,3.1.0,BAT2024-03
+Wearables,P.O. Box 789 1234 Ipsum Avenue,Lithuania,W6543-4321,72,TRUE,heart_rate;activity;sleep,2.1.0,BAT2024-01
+Collar_AddOns,567 Nulla Road,Cyprus,C7123-5678,168,TRUE,location;activity,1.9.2,BAT2024-01
+Implants,890 Vestibulum Street,Malta,I8432-3456,720,TRUE,temperature;vitals,3.0.1,BAT2024-02
+Clip_Ons,P.O. Box 234 5678 Sed Avenue,Luxembourg,C5987-7654,48,FALSE,activity;steps,1.8.5,BAT2024-01
+Harness_Devices,123 Lorem Road,Iceland,H7654-4567,96,TRUE,heart_rate;respiration;posture,2.3.0,BAT2024-02
+Specialty_Devices,456 Interdum Avenue,Mongolia,S8876-3456,168,TRUE,all_metrics;specialized,3.1.0,BAT2024-03
+Wearables,P.O. Box 890 4321 Turpis St.,Moldova,W6234-5678,72,TRUE,heart_rate;activity;sleep,2.1.0,BAT2024-01
+Collar_AddOns,234 Magna Avenue,Belarus,C7865-4321,168,TRUE,location;activity,1.9.2,BAT2024-01
+Implants,567 Vitae Road,Ukraine,I8543-6789,720,TRUE,temperature;vitals,3.0.1,BAT2024-02
+Clip_Ons,P.O. Box 123 7890 Nunc Street,Georgia,C5432-3456,48,FALSE,activity;steps,1.8.5,BAT2024-01
+Harness_Devices,789 Augue Avenue,Armenia,H7654-5678,96,TRUE,heart_rate;respiration;posture,2.3.0,BAT2024-02
+Specialty_Devices,234 Elit Street,Azerbaijan,S8765-4321,168,TRUE,all_metrics;specialized,3.1.0,BAT2024-03
+Wearables,P.O. Box 456 1234 Ipsum Road,Kazakhstan,W6543-6789,72,TRUE,heart_rate;activity;sleep,2.1.0,BAT2024-01
+Collar_AddOns,890 Nulla Street,Kyrgyzstan,C7123-3456,168,TRUE,location;activity,1.9.2,BAT2024-01
+Implants,234 Vestibulum Avenue,Tajikistan,I8432-5678,720,TRUE,temperature;vitals,3.0.1,BAT2024-02
+Clip_Ons,P.O. Box 567 4321 Sed Road,Turkmenistan,C5987-4321,48,FALSE,activity;steps,1.8.5,BAT2024-01
+Harness_Devices,123 Lorem Street,Uzbekistan,H7654-6789,96,TRUE,heart_rate;respiration;posture,2.3.0,BAT2024-02
+Specialty_Devices,456 Interdum Avenue,Mongolia,S8876-3456,168,TRUE,all_metrics;specialized,3.1.0,BAT2024-03
